@@ -12,3 +12,5 @@
 /chat-app/ChatAppApi/Infrastructure/obj
 /chat-app/ChatAppApi/Domain/obj
 /chat-app/ChatAppApi/Domain/bin/Debug/net9.0
+/chat-app/ChatAppApi/Chat.Api/obj
+/chat-app/ChatAppApi/Chat.Api/bin/Debug/net9.0
