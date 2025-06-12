@@ -3,3 +3,12 @@
 ################################################################################
 
 /chat-app/ChatAppApi/.vs/ChatAppApi/v17
+/chat-app/ChatAppApi/.vs/ChatAppApi
+/chat-app/ChatAppApi/Application/bin/Debug/net9.0
+/chat-app/ChatAppApi/Application/obj
+/chat-app/ChatAppApi/ChatApp/bin/Debug/net9.0
+/chat-app/ChatAppApi/ChatApp/obj
+/chat-app/ChatAppApi/Infrastructure/bin/Debug/net9.0
+/chat-app/ChatAppApi/Infrastructure/obj
+/chat-app/ChatAppApi/Domain/obj
+/chat-app/ChatAppApi/Domain/bin/Debug/net9.0
