@@ -14,3 +14,10 @@
 /chat-app/ChatAppApi/Domain/bin/Debug/net9.0
 /chat-app/ChatAppApi/Chat.Api/obj
 /chat-app/ChatAppApi/Chat.Api/bin/Debug/net9.0
+/apartment/ApartmentAPI/ApartmentManagement/.vs/ApartmentManagement
+/apartment/ApartmentAPI/ApartmentManagement/Application/bin/Debug/net9.0
+/apartment/ApartmentAPI/ApartmentManagement/Application/obj
+/apartment/ApartmentAPI/ApartmentManagement/Domain/bin/Debug/net9.0
+/apartment/ApartmentAPI/ApartmentManagement/Domain/obj
+/apartment/ApartmentAPI/ApartmentManagement/Infrastructure/bin/Debug/net9.0
+/apartment/ApartmentAPI/ApartmentManagement/Infrastructure/obj
